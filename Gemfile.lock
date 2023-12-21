@@ -107,6 +107,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagging
   kramdown-parser-gfm
+  webrick
 
 BUNDLED WITH
    2.5.1
