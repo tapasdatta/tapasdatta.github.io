@@ -79,11 +79,31 @@ disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For
 google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-feed
+
+paginate: 5
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
