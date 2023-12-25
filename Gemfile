@@ -37,7 +37,7 @@ gem "webrick", "~> 1.8"
 
 
 gem "bundler"
-gem "jekyll"
+# gem "jekyll"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
