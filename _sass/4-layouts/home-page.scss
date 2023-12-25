@@ -50,8 +50,12 @@
     margin-bottom: 20px;
   }
 }
+
 .large{
   font-size: 40px;
+  display: inline-block;
+  border-bottom: 4px solid #fff;
+  width: 150px;
 }
 
 .article__excerpt {
