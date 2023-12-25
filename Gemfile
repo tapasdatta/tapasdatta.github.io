@@ -34,3 +34,11 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 gem "webrick", "~> 1.8"
+
+
+gem "bundler"
+gem "jekyll"
+gem "jekyll-paginate"
+gem 'jekyll-tagging'
+gem "jekyll-sitemap"
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
