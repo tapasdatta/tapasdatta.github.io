@@ -18,16 +18,67 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Tapas Datta
+sub_title: Senior Elixir & Erlang Engineer
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Welcome to the personal blog of Tapas Datta, where I passionately explore and share the enchanting aspects of Elixir. Dive into a world of insightful tips, clever tricks, and my reflections on the ever-evolving tech landscape. Join me in unraveling the beauty of technology and gain valuable insights into my thoughts and experiences in the vibrant realm of tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tapasdatta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+
+# Author Settings
+author:
+  name: TAPAS DATTA
+  bio: I'm a Senior Software Engineer based in Dhaka, specializing in Elixir and Erlang. I love the simplicity of functional programming.
+  avatar: 'images/wild.jpg'
+
+social:
+- {icon: "ion-logo-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/tapaskumardatta"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/tapasdatta"}
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/tapasdhaka"}
+
+
+# Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Tapas! Senior Erlang & Elixir Engineer.
+  hero__description: I'm a Senior Software Engineer based in Dhaka, specializing in Elixir and Erlang. I love the simplicity of functional programming.
+  hero__image: 'images/wild.jpg'
+
+
+
+#-------------------------------
+# Newsletter (_includes/footer-widgets/widget-subscribe.html)
+mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp__title: Get interesting news # Add your Title
+mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__button__text: Join # Add your button text
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: tapash.me@gmail.com
+  description: I make it a habit to check my email on a daily basis, so if you have any matters to discuss, please feel free to reach out to me by using the form provided below.
+  formspree: mvoepqre
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
 
 # Build settings
 theme: minima
