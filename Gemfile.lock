@@ -290,6 +290,8 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagging
+  jemoji
+  rouge
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

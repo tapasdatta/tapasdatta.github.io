@@ -87,3 +87,5 @@ tag_permalink_style:  /:title
 sass:
   sass_dir: _sass
   style: compressed
+
+excerpt_separator: <!--more-->

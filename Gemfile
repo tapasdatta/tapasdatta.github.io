@@ -21,6 +21,8 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"
   gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+  gem 'jemoji'
+  # gem 'rouge'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
