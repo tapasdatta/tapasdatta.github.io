@@ -1,33 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+#-------------------------------
+# General Site Settings
 title: Tapas Datta
 sub_title: Senior Elixir & Erlang Engineer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Welcome to the personal blog of Tapas Datta, where I passionately explore and share the enchanting aspects of Elixir. Dive into a world of insightful tips, clever tricks, and my reflections on the ever-evolving tech landscape. Join me in unraveling the beauty of technology and gain valuable insights into my thoughts and experiences in the vibrant realm of tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tapasdatta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-
+#-------------------------------
 # Author Settings
 author:
   name: TAPAS DATTA
@@ -39,7 +19,6 @@ social:
 - {icon: "ion-logo-github", label: Github, link: "https://github.com/tapasdatta"}
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/tapasdhaka"}
 
-
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
@@ -49,7 +28,6 @@ hero:
   hero__title: Hey, I’m Tapas! Senior Erlang & Elixir Engineer.
   hero__description: I'm a Senior Software Engineer based in Dhaka, specializing in Elixir and Erlang. I love the simplicity of functional programming.
   hero__image: 'images/wild.jpg'
-
 
 
 #-------------------------------
@@ -87,7 +65,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
-  - jekyll-feed
 
 paginate: 5
 paginate_path: "/page/:num"
@@ -107,32 +84,6 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  /:title
 
-
 sass:
   sass_dir: _sass
   style: compressed
-
-excerpt_separator: <!--more-->
-
-# Build settings
-# theme: minima
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
