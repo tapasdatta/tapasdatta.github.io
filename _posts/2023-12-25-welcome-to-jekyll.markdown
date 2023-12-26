@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-12-25 17:09:10 +0600
-categories: jekyll update
+title:  That which does not kill us makes us stronger
+description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
+date:   2018-11-14 15:01:35 +0300
+image:  '/images/02.jpg'
+tags:   [workflow, hobby, study]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!--more--> 
-You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
 
-Jekyll requires blog post files to be named according to the following format:
+![Workflow]({{site.baseurl}}/images/2.1.jpg)
+*Photo by [Balkouras Nicos](https://unsplash.com/photos/ncOQxZe8Krw) on [Unsplash](https://unsplash.com/)*
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
-Jekyll also offers powerful support for code snippets:
+In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2.2.jpg" alt="Workflow">
+    <img src="/images/2.3.jpg" alt="Workflow">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi sapiente potest. Tecum optime, deinde etiam cum.
