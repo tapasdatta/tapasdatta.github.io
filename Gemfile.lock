@@ -283,10 +283,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
-  jekyll
   jekyll-feed (~> 0.12)
   jekyll-paginate
   jekyll-sitemap

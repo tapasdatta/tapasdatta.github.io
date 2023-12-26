@@ -35,9 +35,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
-
-gem "bundler"
-gem "jekyll"
+# gem "bundler"
+# gem "jekyll"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
