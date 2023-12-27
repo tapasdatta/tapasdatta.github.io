@@ -5,7 +5,7 @@ sub_title: Senior Elixir & Erlang Engineer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Welcome to the personal blog of Tapas Datta, where I passionately explore and share the enchanting aspects of Elixir. Dive into a world of insightful tips, clever tricks, and my reflections on the ever-evolving tech landscape. Join me in unraveling the beauty of technology and gain valuable insights into my thoughts and experiences in the vibrant realm of tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tapasdatta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tapasdatta.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
