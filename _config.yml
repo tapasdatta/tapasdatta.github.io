@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 title: Tapas Datta
-sub_title: Senior Elixir & Erlang Engineer
+sub_title: Erlang & Elixir Engineer
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Welcome to the personal blog of Tapas Datta, where I passionately explore and share the enchanting aspects of Elixir. Dive into a world of insightful tips, clever tricks, and my reflections on the ever-evolving tech landscape. Join me in unraveling the beauty of technology and gain valuable insights into my thoughts and experiences in the vibrant realm of tech.
+description: Welcome to the personal blog of Tapas Datta, where I passionately explore and share the enchanting aspects of Erlang & Elixir. Dive into a world of insightful tips, clever tricks, and my reflections on the ever-evolving tech landscape. Join me in unraveling the beauty of technology and gain valuable insights into my thoughts and experiences in the vibrant realm of tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tapasdatta.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -11,7 +11,7 @@ url: "https://tapasdatta.com" # the base hostname & protocol for your site, e.g.
 # Author Settings
 author:
   name: TAPAS DATTA
-  bio: I'm a Senior Software Engineer based in Dhaka, specializing in Elixir and Erlang. I love the simplicity of functional programming.
+  bio: I'm a seasoned Senior Software Engineer hailing from Dhaka, with a passion for unraveling complexities through the elegance of functional programming.
   avatar: 'images/wild.jpg'
 
 social:
@@ -25,8 +25,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I'm Tapas! Senior Erlang & Elixir Engineer.
-  hero__description: I'm a Senior Software Engineer based in Dhaka, specializing in Elixir and Erlang. I love the simplicity of functional programming.
+  hero__title: Hey, I'm Tapas! Erlang & Elixir Engineer.
+  hero__description: I'm a seasoned Senior Software Engineer hailing from Dhaka, with a passion for unraveling complexities through the elegance of functional programming.
   hero__image: 'images/wild.jpg'
 
 
