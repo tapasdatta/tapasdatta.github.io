@@ -55,6 +55,7 @@ disqus-identifier: tapas-datta # add your shortname for Disqus Comment. For exam
 #-------------------------------
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
+google-tag: GTM-T39RWVFF # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
