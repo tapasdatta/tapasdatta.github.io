@@ -4,7 +4,17 @@
       <h3 class="widget__title">Explore tags</h3>
     </div>
     <div class="tag__cloud">
-      {{ site | tag_cloud }}
+      {% capture temptags %}
+        {% for tag in site.tags %}
+          {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+        {% endfor %}
+      {% endcapture %}
+      {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+      {% for temptag in sortedtemptags %}
+        {% assign tagitems = temptag | split: '#' %}
+        {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+        <a href="/tag/{{ tagname }}">{{ tagname }}</a>
+      {% endfor %}
     </div>
   </div>
 </div>

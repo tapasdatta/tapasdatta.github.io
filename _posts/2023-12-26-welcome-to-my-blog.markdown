@@ -4,7 +4,7 @@ title:  Welcome to my blog site
 description: I'm Tapas Datta, a Senior Software Engineer rooted in the vibrant city of Dhaka.
 date:   2023-12-26 15:01:35 +0600
 image:  '/images/02.jpg'
-tags:   [Elixir, Erlang, Tapas]
+tags:   [blog]
 ---
 
 I'm Tapas Datta, a Senior Software Engineer rooted in the vibrant city of Dhaka. My days are immersed in the dynamic world of technology, specializing in the elegant languages of Erlang & Elixir. I pursued both a Bachelor's and Master's degree in Computer Science and Engineering. Passion for Software Architecture and AI runs deep in my veins.

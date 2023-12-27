@@ -18,7 +18,6 @@ group :jekyll_plugins do
   gem "bundler"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
-  gem 'jekyll-tagging'
   gem "jekyll-sitemap"
   gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
   gem 'jemoji'
